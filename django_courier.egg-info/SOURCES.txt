@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+django_courier.egg-info/PKG-INFO
+django_courier.egg-info/SOURCES.txt
+django_courier.egg-info/dependency_links.txt
+django_courier.egg-info/requires.txt
+django_courier.egg-info/top_level.txt

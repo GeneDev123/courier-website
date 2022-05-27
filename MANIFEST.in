@@ -1,0 +1,5 @@
+include LICENSE 
+include README.rst
+recursive-include courier/static *
+recursive-include courier/templates *
+recursive-include docs *
